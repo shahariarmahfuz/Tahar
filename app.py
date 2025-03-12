@@ -2,7 +2,7 @@ import os
 import json
 import hashlib
 import requests
-from flask import Flask, request, jsonify, redirect
+from flask import Flask, request, jsonify, send_file
 
 app = Flask(__name__)
 
@@ -82,7 +82,7 @@ def download_video(fb_url, hd_url):
 
 @app.route("/link", methods=["GET"])
 def get_video():
-    """ফেসবুক ভিডিও ডাউনলোড করে এবং ইউজারকে ভিডিওতে রিডাইরেক্ট করে।"""
+    """ফেসবুক ভিডিও ডাউনলোড করে এবং ইউজারকে ভিডিও দেখায়।"""
     fb_url = request.args.get("url")
     if not fb_url:
         return jsonify({"error": "URL is required"}), 400
@@ -94,10 +94,10 @@ def get_video():
         if hd_url:
             video_path = download_video(fb_url, hd_url)
 
-    if video_path:
-        return redirect(f"/{video_path}")  # ইউজারকে ডাউনলোড করা ভিডিওতে পাঠানো হবে
+    if video_path and os.path.exists(video_path):
+        return send_file(video_path, mimetype="video/mp4")  # সরাসরি ভিডিও পাঠানো হবে
     else:
-        return jsonify({"error": "Video download failed"}), 500
+        return jsonify({"error": "Video not found"}), 404
 
 
 if __name__ == "__main__":
