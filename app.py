@@ -18,7 +18,7 @@ if not os.path.exists(CHECK_FILE):
 
 # RapidAPI তথ্য
 RAPIDAPI_HOST = "facebook-reel-and-video-downloader.p.rapidapi.com"
-RAPIDAPI_KEY = "আপনার-র্যাপিডএপিআই-কী"
+RAPIDAPI_KEY = "d4cc664bddmshad58db8819652d6p19e7adjsn6bcd66d66ef4"
 
 
 def read_json():
