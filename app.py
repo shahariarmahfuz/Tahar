@@ -2,6 +2,8 @@ import os
 import json
 import hashlib
 import requests
+import threading
+import time
 from flask import Flask, request, jsonify, send_file
 
 app = Flask(__name__)
@@ -100,5 +102,24 @@ def get_video():
         return jsonify({"error": "Video not found"}), 404
 
 
+@app.route('/ping', methods=['GET'])
+def ping():
+    """পিং চেক - সার্ভার চালু আছে কিনা"""
+    return jsonify({"status": "alive"})
+
+
+def keep_alive():
+    """রেন্ডার সার্ভার একটিভ রাখতে প্রতি ৫ মিনিটে পিং পাঠানো হবে"""
+    url = "https://video-for-you.onrender.com/ping"  # আপনার অ্যাপের URL
+    while True:
+        time.sleep(300)
+        try:
+            requests.get(url)
+            print("Ping sent to keep server alive!")
+        except Exception as e:
+            print(f"Error: {e}")
+
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080, debug=True)
+    threading.Thread(target=keep_alive, daemon=True).start()
+    app.run(host='0.0.0.0', port=5000)
