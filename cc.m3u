@@ -3,3 +3,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",RTV NEWS
 https://congenial-umbrella-production.up.railway.app/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",RTV NEWS
+https://sami-production.up.railway.app/static/hls/live.m3u8
