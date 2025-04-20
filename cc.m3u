@@ -12,3 +12,6 @@ https://three60p-15t1.onrender.com/static/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
 https://sami-production.up.railway.app/stream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+https://animetv.zapto.org/stream/stream.m3u8
