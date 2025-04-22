@@ -21,3 +21,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745311156/ei/V
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
 https://tvs1.aynaott.com/somoytv/tracks-v1/index.fmp4.m3u8?amp%3Bremote=no_check_ip&token=5fdde79d3f336455efca30857a3f840564ab48cc-f0adaef3395274903974c52ec577c97a-1745291240-1745290340&amp;remote=no_check_ip
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+https://live-jjr3.onrender.com/live/2.m3u8
