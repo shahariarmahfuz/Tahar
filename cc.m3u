@@ -76,3 +76,6 @@ https://live-jjr3.onrender.com/live/15.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 16
 https://live-jjr3.onrender.com/live/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 16
+https://live-jjr3.onrender.com/live/200.m3u8
