@@ -15,3 +15,6 @@ https://sami-production.up.railway.app/stream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
 https://animetv.zapto.org/stream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745311156/ei/VAEHaI64JbvOi9oP4J7XoQM/ip/92.205.151.109/id/6RB19W3FlA0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcPXIsxzw1jO7ZVbDwVfh-ofnwa4b-HgE3dlGzGS2aqXm_YykasIOooTt0GzueaTe7q-nogg0QHq/spc/_S3wKsdBuO3mSlv7r3Ce7WasldNFmdMzwzTEzKl3reizC7Ghtk5fUiTkv-lug8WXWKmSTuE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbEIR1WPcb8fgJO7adUp5vqLh_LlD7i0E8_naKSUztm0CIQCvkCzHQKC08p95jSmjKycUWvSsxVXgpgVNqJy938gBQg%3D%3D/file/index.m3u8
