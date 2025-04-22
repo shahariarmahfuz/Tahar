@@ -24,3 +24,9 @@ https://tvs1.aynaott.com/somoytv/tracks-v1/index.fmp4.m3u8?amp%3Bremote=no_check
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
 https://live-jjr3.onrender.com/live/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+https://live-jjr3.onrender.com/live/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+https://live-jjr3.onrender.com/live/3.m3u8
