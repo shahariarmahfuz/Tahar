@@ -1,32 +1,78 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",Render TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",Render TV
 https://three60p-15t1.onrender.com/static/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",RTV NEWS
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",RTV NEWS
 https://sami-production.up.railway.app/static/hls/live.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://three60p-15t1.onrender.com/static/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://sami-production.up.railway.app/stream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://animetv.zapto.org/stream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745311156/ei/VAEHaI64JbvOi9oP4J7XoQM/ip/92.205.151.109/id/6RB19W3FlA0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcPXIsxzw1jO7ZVbDwVfh-ofnwa4b-HgE3dlGzGS2aqXm_YykasIOooTt0GzueaTe7q-nogg0QHq/spc/_S3wKsdBuO3mSlv7r3Ce7WasldNFmdMzwzTEzKl3reizC7Ghtk5fUiTkv-lug8WXWKmSTuE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbEIR1WPcb8fgJO7adUp5vqLh_LlD7i0E8_naKSUztm0CIQCvkCzHQKC08p95jSmjKycUWvSsxVXgpgVNqJy938gBQg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://tvs1.aynaott.com/somoytv/tracks-v1/index.fmp4.m3u8?amp%3Bremote=no_check_ip&token=5fdde79d3f336455efca30857a3f840564ab48cc-f0adaef3395274903974c52ec577c97a-1745291240-1745290340&amp;remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://live-jjr3.onrender.com/live/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://live-jjr3.onrender.com/live/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P55tvfbT/Rtv-bangladesh-svg.png" group-title="NEWS",tete TV
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTV%20News.png" group-title="NEWS",tete TV
 https://live-jjr3.onrender.com/live/3.m3u8
+
+# নতুন যুক্ত হওয়া চ্যানেলগুলো
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 1
+https://live-jjr3.onrender.com/live/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 2
+https://live-jjr3.onrender.com/live/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 3
+https://live-jjr3.onrender.com/live/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 4
+https://live-jjr3.onrender.com/live/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 5
+https://live-jjr3.onrender.com/live/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 6
+https://live-jjr3.onrender.com/live/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 7
+https://live-jjr3.onrender.com/live/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 8
+https://live-jjr3.onrender.com/live/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 9
+https://live-jjr3.onrender.com/live/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 10
+https://live-jjr3.onrender.com/live/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 11
+https://live-jjr3.onrender.com/live/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 12
+https://live-jjr3.onrender.com/live/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 13
+https://live-jjr3.onrender.com/live/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 14
+https://live-jjr3.onrender.com/live/14.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 15
+https://live-jjr3.onrender.com/live/15.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Star%20Gold.png" group-title="NEWS",Poddoti TV 16
+https://live-jjr3.onrender.com/live/16.m3u8
